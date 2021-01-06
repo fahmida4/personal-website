@@ -35,6 +35,10 @@ p{
 }
 .orange-highlight{
     color: orange;
+
+}
+.red-highlight{
+    color: rgba(255, 0, 0, 0.76);
 }
 .half-width{
     width: 30%;
